@@ -1,0 +1,14 @@
+So this level is also a same as leven 22 bu it will contain a script when u try to cat /etc/cron.d/bandit23 u will get a "/usr/bin/abc" when u cat this u will get a script a Bash script
+
+#!/bin/bash
+
+Myname=$(whoami)
+Mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
+
+Echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
+
+Cat /etc/bandit_pass/$myname > /tmp/$mytarget
+
+
+So this script echos the sentence "iam user whoami" now the whoami is bandit22 but when u change it to bandit23 it it will turn this sentance to md5 and it will add  the bandit pass to this tmp/abc file when u cat it u will get the
+Pass:gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw

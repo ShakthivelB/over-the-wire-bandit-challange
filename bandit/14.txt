@@ -1,0 +1,7 @@
+In this leven u need to login thorugh private ssh key ill get to with this in a easy way aopy the ssh private key and log out from the session then
+Create a bandit14_key and check for the permission  "ls -l" ull somthing like -rw-r--r--  which means the owner only has the read acess not to write or
+Execute so use this command to checnge the permission chmod 600 bandit14_key now do ls -la ull see somthing like -rw------- which means now the owner has
+The werite acces
+No use ssh to connect to the level 14
+
+Ssh -i bandit14_key -p 2220 bandit14@bandit.labs.overthewire.org

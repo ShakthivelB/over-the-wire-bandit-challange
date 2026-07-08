@@ -1,0 +1,59 @@
+Pass: qQYQiHOBPR8zR61qxYqX45quvihF2uzk
+
+So in this level we are handling a binary file not an ordany one this is a hexdump file when u see somthing like this {00000000: 1f8b 0808}
+Its not an ordanry file its an  hexdump so we can used xdd to reverse it back to original binary file for eample
+
+""xxd -r data.txt > data""
+
+Now we got the file and we need to check what type of file it is so for that we can use file command "file <filename>"
+
+It should show ex POSIX tar archive or compressed gzip or ASCII Text
+
+
+If it is a zip file or a compressed file we nee to extract it from a zip
+
+"tar -xf data"
+
+Now file to output it should show somthing like
+Data
+│
+└── data5.bin
+
+Now check the file fi its sames as POSIX tar archive extract it again
+
+Data5.bin
+│
+└── data6.bin
+
+Now file it if its returened bzip2 compressed data then u have extracted the compressed file
+It is compressed.
+
+Think of it like
+
+Document.txt
+↓
+Compress
+↓
+Document.bz2
+
+To reverse it,
+
+Document.bz2
+↓
+Bzip2 -d
+↓
+Document
+
+
+Now move the bin to bzip2
+
+"mv data6.bin data6.bz2"
+
+
+Then reverse the compress
+
+Bzip2 -d data6.bz2
+
+Again file data6
+
+Expected output - data6: ASCII text now cat the file ull get the pass

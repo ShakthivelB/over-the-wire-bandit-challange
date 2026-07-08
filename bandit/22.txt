@@ -1,0 +1,9 @@
+So this level runs a corn tab in it where the path is specfied in the cron config "etc/cron.d"
+When u enter in tho that u will se a bandit22_cron file u cannot execute it cause itss a ASCII text but u can reaced what script is running in to is so u can simply use cat /etc/cron.d/bandit22_cron so at last will get the scheduled timing and who owns the file and what i saw was file extention
+
+Bandit22_cron.sh
+
+So i simplet cat it with cat /etc/cron/bandit22_cron.sh"
+
+And i noticed it was running in tmp/abc so i just cat this "cat tmp/abc" later i got the
+Pass :  RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz

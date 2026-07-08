@@ -1,0 +1,3 @@
+U can use sort data.txt | uniq -u cause the pass occurs only once in the file
+
+Pass :EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl

@@ -1,0 +1,5 @@
+Use cmd find . -type f -size 1033c   so the challange told that the pass is an human readable language and the size is 1033 bytes  "find" is a tools use to find the directory,file, or a perticular key word
+Where the "." is current directory and the "-type f" is regular file only  "1033" bytes of the pass
+
+
+Pass : pXa26xhMWaC2SvDotA4r9EgZkulOeSBW

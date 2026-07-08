@@ -1,0 +1,39 @@
+So in this level we are going to learn about git version control where  u need to ss the bandit28 ssh repo and once u t the repo
+It will contain README.md so in this we need to check the
+
+Git log README.md / or / git log --oneline REDME.md
+
+└─$ git log --oneline README.md
+83d7740 (HEAD -> master, origin/master, origin/HEAD) fix info leak
+13bbc4d add missing data
+F3334fb initial commit of README.md
+
+Do this starts from bottom the initial commit was made and they added the missing data and fixed the leak
+
+Now we can use
+
+Git show 83d7740
+
+O/p
+
+Commit 83d77407b76c9f86ac4e691a47618641c9d527ba (HEAD -> master, origin/master, origin/HEAD)
+Author: Morla Porla <morla@overthewire.org>
+Date:   Wed Jun 24 14:59:06 2026 +0000
+
+Fix info leak
+
+Diff --git a/README.md b/README.md
+Index 42331d9..5c6457b 100644
+--- a/README.md
++++ b/README.md
+@@ -4,5 +4,5 @@ Some notes for level29 of bandit.
+## credentials
+
+- username: bandit29
+-- password: Em7eGtqaMySwNFjCpwzzHhLhospOcdt0
++- password: xxxxxxxxxx
+
+
+Git log
+Git show
+Git diff
