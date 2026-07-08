@@ -1,5 +1,0 @@
-Cat -- "--spaces in this filename--"
-7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
-
-
-Usally the teminal takes the spaced files as saprator so this create an error so when reading the file or when using is mark the file name in double qotation and use hypen 2times befor the qoutation

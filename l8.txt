@@ -1,3 +1,0 @@
-U need to use grep to find the pass in the txt file
-
-Pass:  VR1ljMayciFxbnUokuQmJFw6QC9VKtub

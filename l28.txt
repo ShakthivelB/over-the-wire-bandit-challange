@@ -1,7 +1,0 @@
-Just clone the ssh repo of bandit27 via port 2220
-
-Git clone ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/repo
-
-
-U aill get a readme file with the bandit28 pass
-: y8Yd2ssKcpHpud7UvOSOxwamRMzIGIeQ

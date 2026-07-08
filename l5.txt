@@ -1,3 +1,0 @@
-Pass : 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
-
-Just cat the files using -- cause the file is followed by hypen which will used as command opration in bash

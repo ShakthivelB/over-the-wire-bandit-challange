@@ -1,9 +1,0 @@
-So in this level we gonna push a file in to the repo
-
-Git add -f key.txt
-
-Git -commit -m "add key.txt"
-
-Git push origin master / main etc...
-
-Pass : pWuj5jBQ6IgV0NXwiH6g1pXRF8S1YvbT

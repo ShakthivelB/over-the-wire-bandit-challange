@@ -1,8 +1,0 @@
-VGhlIHBhc3N3b3JkIGlzIHBZZk9ZNkh3VXNEajVyTDlVdnloVTdNQ212OHZONVJvCg==
-Bandit10@bandit:~$ cat data.txt | base64 -d
-
-
-The password is pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
-
-
-Ull get to know when u see this

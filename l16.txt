@@ -1,9 +1,0 @@
-So in this same as a perivious where we connected to a server and received a pass in plaintxt but in this the server excepts
-Ecryption so we use opssl in here it has somthing called s_client which helps us to connect to s TLS server
-
-
-Openssl s_client -connect localhost:30001
-
-Now at last ull see --- there enter the pass of the bandit15 ull get the pass of bandit16
-
-Pass: kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V

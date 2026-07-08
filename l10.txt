@@ -1,5 +1,0 @@
-In this leven they have given a human unreadable things where the pass is hidden in it so we are going to use "strings" which will help us to display human readable
-
-Strings data.txt | grep "="
-
-Pass: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG

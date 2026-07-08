@@ -1,3 +1,0 @@
-The file is usally hinding in the bash here so use ls -la here to show all the files
-
-Pass - xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
