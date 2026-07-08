@@ -18,12 +18,10 @@ over-the-wire-bandit-challenge/
 │
 ├── README.md
 ├── bandit/
+│   ├── 01.txt
 │   ├── 02.txt
-│   ├── 03.txt
 │   ├── ...
 │   ├── 33.txt
-│   ├── L1pass.txt
-│   └── sh.sh
 ```
 
 Each file contains:
