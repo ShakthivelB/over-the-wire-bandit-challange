@@ -1,5 +1,8 @@
 # OverTheWire Bandit Walkthrough
 
+![Uploading image.png…]()
+
+
 A complete walkthrough of the **OverTheWire Bandit** wargame documenting each level, the Linux commands used, the concepts learned, and the solutions.
 
 ## About
