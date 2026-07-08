@@ -1,0 +1,4 @@
+Once u got in to the bandit26 u will see 2 files one is exicutable file another one is txt file so ucan use this command to view
+The the exicutable file "./bandit27-do cat /etc/bandit_pass/bandit27"
+
+U will get the pass : STJLJBRRphMxKB392CT4iOr5CbzPU9ER

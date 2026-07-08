@@ -1,0 +1,6 @@
+So in this level it will loginin to the restricted shell of "sh"  then we can simply  try $0 this and escape the
+Restricted shell which will take us to the
+
+Sh shell there we need to find the /etc/bandit_pass/bandit33 but cat wont work so we need to use shebang
+
+/bin/cat /etc/bandit_pass/bandit33 this will get u the pass : u4P2CyPOwPGLe94RdD9Uo2FxFwvnFswM

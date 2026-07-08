@@ -1,0 +1,15 @@
+So in this level do every this smaed a spervious level clone the repo and in here u leared need cmmands
+
+Git branch -a
+
+Git checkout <branchname>
+
+It willl show all the hidden branch like dev or exploit-dev etc.
+
+Git log --all --oneline
+
+This will show all the changes even the history that was deleted
+
+"git show" the commit id
+
+Pass : jq9Dfg2rXsfYsWMgFuKlXhphjdH7USgX

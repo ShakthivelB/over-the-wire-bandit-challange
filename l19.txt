@@ -1,0 +1,4 @@
+Password:
+KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
+
+Ssh -p 2220 bandit18@bandit.labs.overthewire.org cat readme

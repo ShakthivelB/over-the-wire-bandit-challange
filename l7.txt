@@ -1,0 +1,17 @@
+So this time they have tricked us using that the pass will be stored in server somwhere so the clue is user - band7 and the owner group is bandit6  and the size is 33 bytes
+
+The below cmd will help u find the pass
+
+
+
+Find / \
+-type f \
+-user bandit7 \
+-group bandit6 \
+-size 33c \
+2>/dev/null
+
+
+Sence we are searching in the server will get permission denied so we are using thie 2>/dev/null to redirect the error o/p
+
+Pass : Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
